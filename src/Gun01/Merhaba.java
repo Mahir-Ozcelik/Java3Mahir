@@ -6,5 +6,7 @@ public class Merhaba {
 
         System.out.println("Task 2 kodları");
 
+        System.out.println("Task 3 kodları");
+
     }
 }
