@@ -10,6 +10,8 @@ public class Merhaba {
 
         System.out.println("Task 4 kodları");
 
+        System.out.println("Tasklar bitti");
+
         for (int i = 0; i < 5; i++) {
             System.out.println("Hele şükür oldu");
         }
